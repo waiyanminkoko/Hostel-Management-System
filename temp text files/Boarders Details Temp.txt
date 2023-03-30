@@ -1,0 +1,8 @@
+Daniel		M	Sec-2		HCI_Scheme	Malaysian	HCI(H)
+Ella		F	Sec-3		Scholar		Indonesian	MGS
+Hua		F	Sec-4		MOE-CP		Vietnamese	SNGS
+Khoa		M	Sec-4		Scholar		Vietnamese	BPGH
+Veeyan		F	JC-1		Self-Financed	Malaysian	ASRJC
+Celine		M	JC-2		MOE-CP		Indonesian	YIJC
+Zheng_Hui	M	JC-1		Scholar		Chinese		HCI(JC)
+Yiming		F	JC-2		Scholar		Chinese		NGJC

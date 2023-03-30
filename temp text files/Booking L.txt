@@ -1,0 +1,4 @@
+Wai_Yan_Min_Ko_Ko	Single		University_Student	14/01/21-8:00	14/01/22-16:00	waiyanminkoko@gmail.com	86070323
+Tan_Chee_Win		Double		Long-Term_Guest		20/01/21-10:00	21/01/22-12:00	tancheewin@gmail.com	99874839
+Boon_Chua		Single		Short-Term_Guest	16/01/21-9:00	26/01/21-18:00	boonchua@gmail.com	84038400
+Adam			Single		Short-Term_Guest	16/01/21-9:00	26/01/21-18:00	boonchua@gmail.com	84038400

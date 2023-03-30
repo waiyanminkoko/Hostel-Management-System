@@ -1,0 +1,14 @@
+Su	F	Uni	OSA	Burmese	NUS	
+Zihao	M	Sec-1	Scholar	Chinese	HCI(H)	
+Daniel	M	Sec-2	Non-Scholar	Malaysian	HCI(H)	
+Ziyang	M	Sec-3	Scholar	Malaysian	HCI(H)	
+Manny	M	Sec-3	Scholar	Malaysian	HCI(H)	
+Feilin	M	Sec-4	Scholar	Malaysian	HCI(H)	
+Farrel	M	Sec-4	Scholar	Malaysian	HCI(H)	
+Ella	F	Sec-3	Scholar	Indonesian	MGS	
+Hua	F	Sec-4	Non-Scholar	Vietnamese	SNGS	
+Khoa	M	Sec-4	Scholar	Vietnamese	BPGH	
+Veeyan	F	JC-1	Non-Scholar	Malaysian	ASRJC	
+Amadius	M	JC-2	MOE-CP	Indonesian	YIJC	
+Zheng_Hui	M	JC-1	Scholar	Chinese	HCI(JC)	
+Yiming	F	JC-2	Scholar	Chinese	NGJC	

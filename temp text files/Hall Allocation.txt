@@ -1,0 +1,12 @@
+Complex
+Hall A - HCI (JC), ASRJC, YIJC,
+Hall B - B5L, B5R  (Sec-1 - Sec-4), the rest JC
+Hall F - F2-BP, F3: YIJC, Ngee Ann, the rest HCI High (Sec-2,3)
+Hall G - HCI High, Sec-4
+
+Easy
+Hall A - HCI(H) Sec-1->4 , 
+Hall B - ascending from Sec-1 to JC2
+Hall F - BP, YIJC, Ngee Ang, University
+Hall G - HCI(JC)
+

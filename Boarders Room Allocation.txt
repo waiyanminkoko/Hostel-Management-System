@@ -1,0 +1,16 @@
+                    Zihao               Sec-1             Scholar              HCI(H)B                   21A
+Daniel                   Sec-2               Self-Funded         HCI(H)              A2                   1A
+Ziyang                   Sec-3               Scholar             HCI(H)              A2                   1B
+Manny                    Sec-3               Scholar             HCI(H)              A2                   1C
+Farrel                   Sec-4               Scholar             HCI(H)              A2                   1D
+Khoa                     Sec-4               Scholar             BPGH                A2                   2A
+Amadius                  JC-2                MOE-CP              YI(JC)              A2                   2B
+ZhengHui                 JC-1                Scholar             HCI(JC)             A2                   2C
+Yiming                   JC-2                Scholar             NG(JC)              B2                   1B
+Su                       University          Self-Funded         NUS                 B2                   1C
+Veeyan                   JC-1                Self-Funded         ASR(JC)             B2                   1D
+Ella                     Sec-3               Scholar             MGS                 B2                   2A
+Hua                      Sec-4               Self-Funded         SNGS                B2                   2B
+Linh                     JC-1                Scholar             HCI(JC)             B2                   2C
+Feilin                   Sec-4               Scholar             HCI(H)              B2                   2D
+Katherine                JC-1                Self-Funded         YI(JC)              B2                   3A

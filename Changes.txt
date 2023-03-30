@@ -1,0 +1,12 @@
+CHECKLIST
+all functions when showed in the console should have line on top and line below header
+printLine should be a smooth double line
+IN OPTION4 boarders details
+1. edit data should have error checking when given wrong name
+2. add data no error checking
+3. delete data should have error checking when given wrong name
+IN OPTION10 user accs
+1. add acc no error checking
+2. delete acc should have error checking when given wrong username
+3. change password should have error checking when wrong username
+

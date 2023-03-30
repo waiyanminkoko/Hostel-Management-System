@@ -1,0 +1,18 @@
+Zihao                   M       Sec-1           Scholar         Chinese         HCI(H)
+Daniel                  M       Sec-2           Self-Funded     Malaysian       HCI(H)
+Ziyang                  M       Sec-3           Scholar         Malaysian       HCI(H)
+Manny                   M       Sec-3           Scholar         Malaysian       HCI(H)
+Farrel                  M       Sec-4           Scholar         Malaysian       HCI(H)
+Khoa                    M       Sec-4           Scholar         Vietnamese      BPGH
+Amadius                 M       JC-2            MOE-CP          Indonesian      YI(JC)
+ZhengHui                M       JC-1            Scholar         Chinese         HCI(JC)
+Yiming                  F       JC-2            Scholar         Chinese         NG(JC)
+Su                      F       University      Self-Funded     Burmese         NUS
+Veeyan                  F       JC-1            Self-Funded     Malaysian       ASR(JC)
+Ella                    F       Sec-3           Scholar         Indonesian      MGS
+Hua                     F       Sec-4           Self-Funded     Vietnamese      SNGS
+Linh                    F       JC-1            Scholar         Vietnamese      HCI(JC)
+Feilin                  F       Sec-4           Scholar         Malaysian       HCI(H)
+Katherine               F       JC-1            Self-Funded     Malaysian       YI(JC)
+                                                                        
+                                                                                

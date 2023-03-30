@@ -1,0 +1,3 @@
+Name			Room Type	Type of Guests		Check-In	Check-Out		Email			Phone Number Cluster/Room
+Wai Yan Min Ko Ko	Single		University Student	14/01/2021-8:00	14/01/2022-16:00	waiyanminkoko@gmail.com	86070323	G2/04
+
